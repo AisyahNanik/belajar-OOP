@@ -1,5 +1,7 @@
 <?php
-//rinsip ini mengacu pada menyembunyikan detail implementasi dalam kelas dan hanya menyediakan antarmuka yang diperlukan untuk berinteraksi dengan objek.
+
+//encapsulation
+//prinsip ini mengacu pada menyembunyikan detail implementasi dalam kelas dan hanya menyediakan antarmuka yang diperlukan untuk berinteraksi dengan objek.
 //Enkapsulasi dicapai dengan menggunakan akses modifier seperti public, private, dan protected.
 
 class Mobil{
