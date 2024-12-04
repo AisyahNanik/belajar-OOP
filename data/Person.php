@@ -1,5 +1,5 @@
 <?php
-class Person {//var untuk membuat ciri-ciri
+class Person {//var untuk membuat ciri-ciri atau properties
     var string $name;// bisa diisikan jg, jika ingin membuat nama ny pasti dan tidak perlu diisikan
     var int $age;
     var string $address;
